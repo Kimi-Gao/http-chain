@@ -55,7 +55,7 @@
     "cz-conventional-changelog": "^3.0.2",
     "eslint": "^7.0.0",
     "husky": "^4.0.0",
-    "jest": "^23.1.0",
+    "jest": "^26.5.0",
     "lint-staged": "^10.2.9",
     "lodash": "^4.17.10",
     "standard": "^14.3.1",
